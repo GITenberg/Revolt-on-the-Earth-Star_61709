@@ -1,5 +1,5 @@
 _repo: Revolt-on-the-Earth-Star_61709
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Edwards, Bill
@@ -8,12 +8,17 @@ contributor:
     gutenberg_agent_id: '51590'
     url: http://www.gutenberg.org/2009/agents/51590
     wikipedia: https://en.wikipedia.org/wiki/Bill_Edwards_(actor)
+covers:
+- cover_type: archival
+  image_path: 61709-h/images/cover.jpg
 creator:
   author:
     agent_name: Selwyn, Carl
     gutenberg_agent_id: '51571'
     url: http://www.gutenberg.org/2009/agents/51571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61709#Revolt-on-the-Earth-Star
 gutenberg_issued: '2020-03-30'
 gutenberg_type: Text
 identifiers:
